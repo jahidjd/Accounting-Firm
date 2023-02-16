@@ -1,3 +1,9 @@
+.title-border{
+    border: 1px solid #ffcd00;
+width: 25%;
+margin: 25px auto;
+}
+
 .banner-section .ssss{
     background: url(../assets/img/Home-header-CPA.jpg) no-repeat center top;
   background-size: cover;
@@ -16,9 +22,10 @@
 .banner-section .title-border{
     border: 5px solid #ff8b38;
 width: 100%;
+margin: auto;
 }
 
-.space-inner{
+.banner-section .space-inner{
     border: 8px solid #384753;
 width: 60%;
 margin: 0 auto;
@@ -29,9 +36,11 @@ margin-top: -5px;
     padding-left: 90px;
     font-size: 20px;
 }
+
 .work-with-cpa .right-side p{
     padding-right: 90px;
 }
+
 .work-with-cpa .btn{
     width: 15%;
 margin: 0 auto;
@@ -42,9 +51,48 @@ background-color: #ffcd00;
 border-color: transparent;
 color: black;
 }
-.work-with-cpa .title-border{
+
+
+
+.booking-accounting-tax .top-heading{
+    font-weight: 600;
+}
+.booking-accounting-tax .top-heading span{
+    font-size: 20px;
+text-transform: uppercase;
+word-spacing: 2px;
+}
+
+.booking-accounting-tax .title-border{
+    border: 5px solid #ffcd00;
+width: 70%;
+margin: -5px auto;
+}
+
+.booking-accounting-tax .card-logo{
+    text-align: center;
+font-size: 40px;
+}
+
+.booking-accounting-tax .btn{
+    width: 60%;
+    margin: 15px auto 0;
+    font-weight: 700;
+    font-size: 16px;
+    text-transform: uppercase;
+    background-color: #ffcd00;
+    border-color: transparent;
+    color: black;
+}
+
+.booking-accounting-tax .bottom-title-border{
     border: 1px solid #ffcd00;
 width: 25%;
 margin: 25px auto 0;
 }
-
+.business-helped .top-heading{
+    font-weight: 600;
+}
+.business-helped img{
+    width: 50%;
+}
