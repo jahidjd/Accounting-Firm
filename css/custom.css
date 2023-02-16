@@ -1,0 +1,50 @@
+.banner-section .ssss{
+    background: url(../assets/img/Home-header-CPA.jpg) no-repeat center top;
+  background-size: cover;
+  padding: 150px 0px;
+}
+
+.banner-section .banner-heading{
+    background-color: yellow;
+    padding: 20px;
+}
+
+.banner-section .banner-heading h2{
+    font-size: 35px;
+}
+
+.banner-section .title-border{
+    border: 5px solid #ff8b38;
+width: 100%;
+}
+
+.space-inner{
+    border: 8px solid #384753;
+width: 60%;
+margin: 0 auto;
+margin-top: -5px;
+}
+
+.work-with-cpa .left-side p{
+    padding-left: 90px;
+    font-size: 20px;
+}
+.work-with-cpa .right-side p{
+    padding-right: 90px;
+}
+.work-with-cpa .btn{
+    width: 15%;
+margin: 0 auto;
+font-weight: 700;
+font-size: 20px;
+text-transform: uppercase;
+background-color: #ffcd00;
+border-color: transparent;
+color: black;
+}
+.work-with-cpa .title-border{
+    border: 1px solid #ffcd00;
+width: 25%;
+margin: 25px auto 0;
+}
+
